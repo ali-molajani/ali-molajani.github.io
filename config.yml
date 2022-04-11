@@ -89,7 +89,7 @@ params:
         Content: >
             Welcome to Ali's blog.
 
-            - Here in this blog we are going to about new exciting points about nw technologies from devices to web frameworks.
+            - Here in this blog we are going to introduce and review new technologies from devices to web frameworks.
 
             - Enjoy ;)
 
@@ -100,7 +100,7 @@ params:
           url: "https://www.linkedin.com/in/ali-molajani/"
 
     editPost:
-        URL: "https://github.com/ali-molajani/ali-molajani.github.io/tree/content"
+        URL: "https://github.com/ali-molajani/ali-molajani.github.io/tree/master/content/"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
