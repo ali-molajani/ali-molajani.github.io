@@ -7,12 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 04 Apr 2022 16:15:50 +0430</lastBuildDate><atom:link href="https://ali-molajani.github.io/tags/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Who am i ?</title>
+      <title>About me</title>
       <link>https://ali-molajani.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 04 Apr 2022 16:15:50 +0430</pubDate>
       
       <guid>https://ali-molajani.github.io/posts/my-first-post/</guid>
-      <description>I am ali molajani (basically you already know it whenever you are here :))</description>
+      <description>Introduction: I am ali molajani student of the MS of the nanoelectronics at Shahid beheshti university in tehran. My intersts are mainly around the Electronics Eng. and programming and using different languages and frame works specially C/C++, Rust, even Linux source code.
+Why you need a site? Some times i really sense to share my thoughts and discoveries in tech with people because i see problems that can engage them and consumes thier time due to lack of experience where here we hope can do our best to show case newer and more efficient frameworks or technologies to make everyone&amp;rsquo;s life a little bit easier.</description>
     </item>
     
   </channel>
