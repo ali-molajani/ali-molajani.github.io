@@ -98,6 +98,8 @@ params:
           url: "https://github.com/ali-molajani"
         - name: linkedin
           url: "https://www.linkedin.com/in/ali-molajani/"
+        - name: matrix
+          url: "https://matrix.to/#/!cUEDhlIDGLoKcaZSlN:matrix.org?via=matrix.org"
 
     editPost:
         URL: "https://github.com/ali-molajani/ali-molajani.github.io/tree/master/content/"
