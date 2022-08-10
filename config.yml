@@ -106,10 +106,10 @@ params:
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+    #  label:
+    #      text: "Home"
+    #      icon: /images/icons/2/favicon.png
+    #      iconHeight: 35
 
     # analytics:
     #     google:
