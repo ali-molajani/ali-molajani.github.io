@@ -14,7 +14,7 @@ If you've been a GNU/Linux user you should be aware of GNU/Linux distribution an
 
 Well like most of the GNU/Linux users i hop over few GNU/Linux distributions. My first distro was *Ubuntu* it was solid and i really like the *Unity* desktop environment (nowadays Ubuntu ships with Gnome desktop env which is not my favorite!) but there were one problem most of the apps are **old** and i need fresh ones so i was compiling from source!
 I admit i learn lots things but it was time consuming.
-Next distro was **Arch** (YES i *used* arch BTW ;) ) it was beautiful and good but if you are not using it for few weeks it easily breaks because of old keyrings. But i liked the experience especially because i used a window manager not a full desktop environment LOVE IT!
+Next distro was **Arch** (YES i *used* arch BTW ;) it was beautiful and good but if you are not using it for few weeks it easily breaks because of old keyrings. But i liked the experience especially because i used a window manager not a full desktop environment LOVE IT!
 
 So i reinstalled it but it breaks again and yes it's time to change again.
 

@@ -1,6 +1,6 @@
 baseURL: "https://ali-molajani.github.io/" 
 title: Ali Molajani
-paginate: 5
+pagination.pagerSize: 5
 theme: "PaperMod"
 
 enableInlineShortcodes: true
@@ -60,7 +60,8 @@ params:
     description: "Ali Molajani's personal website"
     author: Ali Molajani
     # author: ["Me", "You"] # multiple authors
-    
+    images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "January 2, 2006"
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: true
@@ -98,8 +99,7 @@ params:
           url: "https://github.com/ali-molajani"
         - name: linkedin
           url: "https://www.linkedin.com/in/ali-molajani/"
-        - name: matrix
-          url: "https://matrix.to/#/!cUEDhlIDGLoKcaZSlN:matrix.org?via=matrix.org"
+
 
     editPost:
         URL: "https://github.com/ali-molajani/ali-molajani.github.io/tree/master/content/"
@@ -174,5 +174,5 @@ privacy:
 services:
     instagram:
         disableInlineCSS: true
-    twitter:
+    X:
         disableInlineCSS: true
